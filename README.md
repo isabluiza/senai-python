@@ -7,13 +7,13 @@ Resolução de exercícios de Python realizados durante o curso de Formação In
 Guia de exercícios
 
 001 a 010 - Entrada e saída simples de dados
-Inclue Desafio 01.
+<br>Inclue Desafio 01.
 
 011 a 013 - Tratamento de Strings
-Inclue Desafio 02.
+<br>Inclue Desafio 02.
 
 014 a 026 - Estruturas condicionais ( IF / ELIF / ELSE )
-Inclue resoluções utilzando função.
+<br>Inclue resoluções utilzando função.
 
 027 a 036 - Estruturas de repetição ( FOR )
 
