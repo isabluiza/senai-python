@@ -1,9 +1,8 @@
 # Escreva um programa que leia o
 # Nome, idade e sexo de 4 pessoas. No final mostre:
-#
-# A média de idade do grupo
-# Qual é o homem mais velho
-# Quantas mulheres têm menos de 20 anos
+# 1. A média de idade do grupo
+# 2. Qual é o homem mais velho
+# 3. Quantas mulheres têm menos de 20 anos
 
 media = 0
 contador = 0
