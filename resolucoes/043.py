@@ -1,5 +1,4 @@
-# Crie um programa que leia vários números inteiros.
-# O programa só vai parar quando o usuário digitar 0000.
+# Crie um programa que leia vários números inteiros. O programa só vai parar quando o usuário digitar 0000.
 # No final mostre quantos números foram digitados e qual a soma entre eles (desconsiderando o flag)
 
 numero = 0
